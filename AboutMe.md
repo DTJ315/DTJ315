@@ -1,0 +1,4 @@
+- Hi, I’m DJ15
+- I’m interested in Python, javascript and Minecraft
+- I’m currently learning javascript
+- I have four cats some are angels and some are devils 
